@@ -5,6 +5,7 @@ PRODUCT_PACKAGES += \
     GooglePermissionControllerOverlay \
     PixelConfigOverlayCommon \
     TeleServiceOverlay \
+    ThemeIconsOverlay \
     CaptivePortalLoginOverlay \
     GoogleWebViewOverlay \
     TelecomOverlay \
