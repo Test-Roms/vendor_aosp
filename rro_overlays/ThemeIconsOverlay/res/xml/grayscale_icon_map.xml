@@ -259,6 +259,7 @@
     <icon drawable="@drawable/themed_icon_waze" package="com.waze" />
     <icon drawable="@drawable/themed_icon_wear_os" package="com.google.android.wearable.app" />
     <icon drawable="@drawable/themed_icon_whatsapp" package="com.whatsapp" />
+    <icon drawable="@drawable/themed_icon_whatsapp" package="com.fmwhatsapp" />
     <icon drawable="@drawable/themed_icon_whatsapp" package="com.gbwhatsapp" />
     <icon drawable="@drawable/themed_icon_whatsapp" package="com.yowhatsapp" />
     <icon drawable="@drawable/themed_icon_whatsapp_busines" package="com.whatsapp.w4b" />
