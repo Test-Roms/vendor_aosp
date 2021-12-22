@@ -359,7 +359,9 @@
     <icon drawable="@drawable/themed_icon_terminal" package="jackpal.androidterm" />
     <icon drawable="@drawable/themed_icon_tidal" package="com.aspiro.tidal" />
     <icon drawable="@drawable/themed_icon_trebleinfo" package="tk.hack5.treblecheck" />
+    <icon drawable="@drawable/themed_icon_termius" package="com.server.auditor.ssh.client" />
     <icon drawable="@drawable/themed_icon_tumblr" package="com.tumblr" />
+    <icon drawable="@drawable/themed_icon_turbotel" package="ellipi.messenger" />
     <icon drawable="@drawable/themed_icon_twitch" package="tv.twitch.android.app" />
     <icon drawable="@drawable/themed_icon_ubereats" package="com.ubercab.eats" />
     <icon drawable="@drawable/themed_icon_ultimaterotationcontrol" package="nl.fameit.rotate" />
